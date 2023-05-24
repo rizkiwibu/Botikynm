@@ -174,7 +174,7 @@ contextInfo: {
 externalAdReply: {
 title: date,
 body: 'bodynya',
-thumbnailUrl: "https://telegra.ph/file/dc5a67d724b016574129b.jpg",
+thumbnailUrl: "https://telegra.ph/file/21e617c8296833afffe5f.jpg",
 sourceUrl: "https://chat.whatsapp.com/BWqK0cDNFqXFqwb8hGwbBU",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -196,7 +196,7 @@ renderLargerThumbnail: true
                           }
                         }
                       }
-await conn.sendFile(m.chat, 'https://telegra.ph/file/dc5a67d724b016574129b.jpg', 'menu.jpg', text, ftroli)**/
+await conn.sendFile(m.chat, 'https://telegra.ph/file/21e617c8296833afffe5f.jpg', 'menu.jpg', text, ftroli)**/
   } catch (e) {
     conn.reply(m.chat, 'Maaf, menu sedang error', m)
     throw e
